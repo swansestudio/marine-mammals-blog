@@ -1,0 +1,22 @@
+.header {
+    background-color: rgb(192, 192, 192);
+    /* height: 50px; */
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.header .mongo-db-logo {
+    outline: 1px solid;
+    height: 80px;
+}
+
+.header img {
+    height: 100%;
+}
+
+.header h1 {
+    margin: 0px 20px;
+}

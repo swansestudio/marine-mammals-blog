@@ -1,0 +1,62 @@
+.edit-post-header {
+  background-color: var(--element-common);
+  border-radius: 5px;
+  padding: 0 10px;
+  margin-bottom: 20px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.edit-post-header h2 {
+  margin: 0;
+}
+
+.comment {
+  border-radius: 5px;
+  background-color: rgb(180, 180, 180);
+  border: 1px black dashed;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.comment .comment-header {
+  height: 30px;
+  background-color: var(--element-common);
+  padding: 20px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.comment-header div {
+  display: flex;
+  align-items: center;
+}
+
+.comment div:first-child span {
+  margin-right: 10px;
+}
+
+.comment .delete-btn {
+  background-color: var(--element-attent);
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.comment p {
+  padding: 0 10px;
+}
+
+
+.modal  button {
+  background-color: var(--element-common);
+  outline: 1px solid var(--element-common);
+  float: right;
+}
