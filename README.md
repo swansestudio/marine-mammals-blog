@@ -4,3 +4,5 @@ Additionally, it could reveal to us an intrinsic everyday life of some species o
 This project uses the [MongoDB](https://www.mongodb.com) logo, which is copyright ©MongoDB, Inc. All rights reserved.
 Learn more about MongoDB.
 
+
+[](https://github.com/swansestudio/marine-mammals-blog/blob/main/doc/blog-comment.png)
