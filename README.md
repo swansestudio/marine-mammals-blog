@@ -5,3 +5,4 @@ This project uses the [MongoDB](https://www.mongodb.com) logo, which is copyrigh
 Learn more about MongoDB.
 
 ![project image](/doc/blog-face.png)
+![project image](/doc/blog-comment.png)
