@@ -4,5 +4,4 @@ Additionally, it could reveal to us an intrinsic everyday life of some species o
 This project uses the [MongoDB](https://www.mongodb.com) logo, which is copyright ©MongoDB, Inc. All rights reserved.
 Learn more about MongoDB.
 
-
-(/doc/blog-comment.png)
+![project image](/doc/blog-face.png)
