@@ -5,4 +5,4 @@ This project uses the [MongoDB](https://www.mongodb.com) logo, which is copyrigh
 Learn more about MongoDB.
 
 
-[](https://github.com/swansestudio/marine-mammals-blog/blob/main/doc/blog-comment.png)
+[face](https://github.com/swansestudio/marine-mammals-blog/blob/main/doc/blog-comment.png)
